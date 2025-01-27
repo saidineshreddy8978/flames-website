@@ -38,12 +38,12 @@ function flames(len_of_comparision) {
   }
 
   let resultMap = {
-    f: "Friends",
-    l: "Love",
-    a: "Affection",
-    m: "Marriage",
-    e: "Enemies",
-    s: "Siblings",
+     f: "Friends 👫",
+    l: "Love ❤️",
+    a: "Affection 💞",
+    m: "Marriage 💍",
+    e: "Enemies 😡",
+    s: "Siblings 👨‍👩‍👧‍👦",
   };
 
   let r = resultMap[flames[0]];
